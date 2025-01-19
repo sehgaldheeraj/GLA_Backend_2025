@@ -1,0 +1,20 @@
+this is a text file
+ls ---> to list all file and folder present in particular dir
+
+mkdir (make dir)-> use to create a folder
+
+cd ( change dir) 
+
+touch --> to create a file 
+
+cat -> use to display all the content present in file
+
+eg cat index.html
+
+cd .. --> use to get back from current folder
+
+
+rm  --> use to delete file
+
+rm -rf --> use to delete folder where -rf (remove forcefully)
+
